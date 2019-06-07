@@ -12,6 +12,17 @@ html{
     margin-top: 3em;
 }
 
+h1,h2,h3{
+    color: #666;
+}
+
+header,
+main,
+footer{
+    margin: 0 auto;
+    max-width: 800px;
+}
+
 header{
     padding: 2em 0;
 }
