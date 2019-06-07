@@ -89,6 +89,7 @@ section > p{
 
 #products article img{
     width: 100%;
+    border: 1px solid #333;
 }
 
 
