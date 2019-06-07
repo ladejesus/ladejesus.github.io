@@ -58,3 +58,25 @@ nav a{
 nav a:hover{
     background: #666;
 }
+
+
+section{
+    margin: 1em 0;
+
+    padding-top: 3em;
+    min-height: 20em;
+}
+
+section > p{
+    margin: 1em 0;
+}
+
+footer{
+    margin-top: 2em;
+    margin-bottom: 1em;
+    background: #666;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+    
+}
