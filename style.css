@@ -6,6 +6,7 @@
     padding: 0;
 }
 
+
 html{
     font-size: 16px;
 
@@ -19,13 +20,19 @@ h1,h2,h3{
 header,
 main,
 footer{
-    margin: 0 auto;
+    margin: 1 auto;
     max-width: 800px;
 }
 
 header{
     padding: 2em 0;
 }
+
+/* header{
+    display: grid;
+    background-image: url("background1.jpg");
+    width: 100%
+} */
 
 header h1{
     font-size: 3em;
@@ -75,21 +82,22 @@ section > p{
     margin: 1em 0;
 }
 
-#products{
+
+ #products{
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    grid-template-rows: auto;
+
     grid-column-gap: 1em;
-}
+    }
 
 #products article{
     background: #ccc;
     padding: 1em;
-}
+} 
 
-#products article img{
+ #products article img{
     width: 100%;
-}
+} 
 
 
 
