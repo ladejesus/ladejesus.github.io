@@ -154,13 +154,13 @@ const questions = [
 
   {
 
-    question: 'What is 2 + 2?',
+    question: 'Who is the best teacher?',
 
     answers: [
 
-      { text: '4', correct: true },
+      { text: 'Jen', correct: true },
 
-      { text: '22', correct: false }
+      { text: 'Ernest', correct: true }
 
     ]
 
