@@ -12,7 +12,7 @@ html{
 
     margin-top: 3em;
 
-    background-color: whitesmoke;
+    background-color: #e6f0ff;
 }
 
 h1{
@@ -38,15 +38,18 @@ header{
     display: grid;
     background-image: url("/images/background1.jpg");
     max-width: 100%;
+    text-align: center;
 } 
 
 header h1{
     font-size: 3em;
+  
 }
 
 header span{
     font-size: 1.5em;
     color:#fff;
+      
 }
 
 nav{
@@ -57,7 +60,7 @@ nav{
 
     display: flex;
     flex-flow: row;
-    justify-content: center;
+    justify-content:left;
 
     background: #333;
 }
@@ -98,6 +101,7 @@ section > p{
 #products article{
     background: #ccc;
     padding: 1em;
+    text-align: justify;
 } 
 
  #products article img{
