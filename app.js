@@ -154,13 +154,13 @@ const questions = [
 
   {
 
-    question: 'Who is the best teacher?',
+    question: 'Why should you hire me?',
 
     answers: [
 
-      { text: 'Jen', correct: true },
+      { text: 'Luis has a good knowledge base', correct: true },
 
-      { text: 'Ernest', correct: true }
+      { text: 'Luis is a team player', correct: true }
 
     ]
 
