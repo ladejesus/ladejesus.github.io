@@ -214,6 +214,20 @@ const questions = [
 
     ]
 
+  },
+
+  {
+
+    question: 'Is this pretty cool?',
+
+    answers: [
+
+      { text: 'True', correct: true},
+
+      { text: 'False', correct: false } 
+      
+    ]
+
   }
 
 ]
