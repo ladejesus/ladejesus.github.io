@@ -129,18 +129,27 @@ footer{
     margin-left: auto;
     margin-right: auto;
     width: 30%;
-
    
 }
 
  #Contacts1 img{
     float: left;
-    background-color: whitesmoke;
-    
-     
-} #Contacts2 img{
-    float: right;
-    background-color: whitesmoke;
+    background-color: #e6f0ff;
+    padding: 1em;
+      
+} 
+
+#Contacts2 img{
+    float: left;
+    background-color: #e6f0ff;
+    padding: 1em
+}
+
+#Contacts3 img{
+  float: left;
+  background-color: #e6f0ff;
+  padding: 1em;
+
 }
 
 /* //Quiz Game Styling*/
